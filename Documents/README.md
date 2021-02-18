@@ -1,4 +1,4 @@
-## Used technologies
+## Benutzte Technologien
 
 ### Backend: 
 - NestJs
