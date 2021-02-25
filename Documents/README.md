@@ -94,3 +94,4 @@ Anlagemöglichkeiten für Privatkunden:
 
 
 # Datenmodell
+![ER-Diagramm](https://github.com/Stonks2Moon/Geschaeftskundenbroker/blob/main/Documents/ER-Diagramm-Business-Broker.png)
