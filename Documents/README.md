@@ -1,10 +1,12 @@
 ## Benutzte Technologien
 
 ### Backend: 
+- REST
 - NestJs
 - MariaDB
 - Docker
 - Linux
 
 ### Frontend:
-- Vue.js
+- Angular
+- REST
