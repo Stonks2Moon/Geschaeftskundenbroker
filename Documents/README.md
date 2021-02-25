@@ -66,3 +66,31 @@ Anlagemöglichkeiten für Privatkunden:
    - Da wir ein größeres Volumen handeln können wir Angebote für Privatkundenbroker machen
    - z.B. Anbieten von Fonds
    - Welche Gebühren nehmen wir im Verhältnis zu einzelnen Orders an der Börse?
+
+# Prozess 
+1. Anmeldung: Der Geschäftskunde kann sich bei uns anmelden / ein Konto anlegen
+- Name des Ansprechpartners
+- Anschrift
+- Firmenname
+2. Übersicht (Homepage)
+- Ansehen aktueller Kurse, Übersicht Aktien, ETFs und andere Finanzprodukte
+- Kurse und Statistiken der Aktien des eigenen Depots
+- Kurse und Statistiken von beliebten Finanzprodukten (DAX)
+4. Aktiensuche
+- Suche nach bestimmten Aktien und Finanzprodukten (Freitextsuche, WKN/ISIN, Produkttyp)
+- Kurse und Statistiken der Aktien der angezeigten Aktien
+5. Kaufprozess
+- Ordertyp
+- Odervolumen
+- Kaufpreis der Order
+- Gebühren
+- "Möchten Sie das wirklich kaufen?"
+- Bestätigung der Erfolgreichen Ausführung
+- Übergeben an die Börse
+- Anzeigen der Aktie, sobald die Order ausgeführt wurde
+- Bestätigung im Postfach + Handelshistorie
+6. Verkaufen
+- Das gleiche in grün
+
+
+# Datenmodell
