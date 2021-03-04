@@ -85,4 +85,12 @@ CREATE TABLE share_order(
     FOREIGN KEY (share_id) REFERENCES share(share_id)
 )
 
+CREATE TABLE costumer_session(
+    session_id VARCHAR(255) NOT NULL,
+    customer_id VARCHAR(255) NOT NULL,
+    expiration_date DATETIME NOT NULL,
+    PRIMARY KEY (session_id),
+    FOREIGN KEY (customer_id) REFERENCES customer(customer_id)
+)
+
 ```
