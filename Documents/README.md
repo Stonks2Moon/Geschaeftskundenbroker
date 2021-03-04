@@ -97,4 +97,4 @@ Anlagemöglichkeiten für Privatkunden:
 ![ER-Diagramm](https://github.com/Stonks2Moon/Geschaeftskundenbroker/blob/main/Documents/ER-Diagramm-Business-Broker.png)
 
 # Prototyp 
-[Hier](https://xd.adobe.com/view/0d38451e-9459-49e3-b3b2-283538fef009-586b/) findet ihr unser AdobeXD Prototypen.
+[Hier](https://xd.adobe.com/view/0d38451e-9459-49e3-b3b2-283538fef009-586b/) findet ihr unseren AdobeXD Prototypen.
