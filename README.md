@@ -23,8 +23,11 @@ Webseite: https://stonks.multiflexxx.de/ | https://business.moonstonks.space/
 API: https://stonks.multiflexxx.de/api/ | https://business.moonstonks.space/api/
 
 
-## Interessante Links
-Algorithmisches Handeln:
+## Interessante Links und Quellen
+<b>Algorithmisches Handeln:</b> Hello
 
 - https://de.wikipedia.org/wiki/Automatisierter_Handel
 - https://catanacapital.com/de/algorithmischer-handel-hochfrequenzhandel-automatisierter-boersenhandel/#beispiele-algorithmische-handelsstrategien
+
+<b>Währungen und ISO Währungscode:</b>
+- https://gist.github.com/allanlaal/6206895
