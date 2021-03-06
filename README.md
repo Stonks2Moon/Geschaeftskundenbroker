@@ -12,6 +12,8 @@
 - Anlagemöglichkeiten an Privatkunden
 
 ## Repos und Links
+Dokumentation: https://github.com/Stonks2Moon/Geschaeftskundenbroker/blob/main/Documents/README.md
+
 Frontend: https://github.com/Stonks2Moon/Geschaeftskundenbroker-frontend
 
 Backend: https://github.com/Stonks2Moon/Geschaeftskundenbroker-backend
