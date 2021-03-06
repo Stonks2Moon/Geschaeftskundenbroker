@@ -93,4 +93,10 @@ CREATE TABLE costumer_session(
     FOREIGN KEY (customer_id) REFERENCES customer(customer_id)
 )
 
+CREATE TABLE currency (
+  iso_code varchar(3) NOT NULL DEFAULT '',
+  currency_name varchar(200) NOT NULL,
+  PRIMARY KEY (iso_code)
+)
+
 ```
