@@ -22,6 +22,8 @@ Webseite: https://stonks.multiflexxx.de/ | https://business.moonstonks.space/
 
 API: https://stonks.multiflexxx.de/api/ | https://business.moonstonks.space/api/
 
+API Dokumentation: https://stonks.multiflexxx.de/api/docs/ | https://business.moonstonks.space/api/docs/
+
 
 ## Interessante Links und Quellen
 <b>Algorithmisches Handeln:</b> Hello
