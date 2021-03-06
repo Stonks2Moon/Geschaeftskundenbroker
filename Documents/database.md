@@ -53,7 +53,7 @@ CREATE TABLE depot(
 CREATE TABLE share(
     share_id INT(11) NOT NULL AUTO_INCREMENT,
     isin VARCHAR(255) NOT NULL,
-    WKN VARCHAR(255) NOT NULL,
+    wkn VARCHAR(255) NOT NULL,
     last_recorded_value DECIMAL NOT NULL DEFAULT 0,
     PRIMARY KEY (share_id)
 )
