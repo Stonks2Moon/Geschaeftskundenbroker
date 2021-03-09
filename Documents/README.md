@@ -98,7 +98,7 @@ Anlagemöglichkeiten für Privatkunden:
 | Anna-Lena Richert | Frontend, Projektleitung, AUFAGBEN DEFINIEREN                      |
 | Anton Ochel       | Frontend, AUFAGBEN DEFINIEREN                      |
 | Tristan Emig      | Frontend, AUFAGBEN DEFINIEREN                      |
-| Tizian Groß       | Frontend, AUFAGBEN DEFINIEREN                      |
+| Tizian Groß       | Frontend, Prototyp Design, Prototyp Umsetzung                      |
 | Benno Grimm       | Backend, Code, Datenbank Design, Dokumentation     |
 | Marcel Mertens    | Backend, Code, Infrastruktur, CI/CD, Dokumentation | 
 
