@@ -92,6 +92,15 @@ Anlagemöglichkeiten für Privatkunden:
 6. Verkaufen
 - Das gleiche in grün
 
+# Aufgabenverteilung
+|**Name**           |**Aufgaben**                                        |
+|-------------------|----------------------------------------------------|
+| Anna-Lena Richert | Frontend, Projektleitung, AUFAGBEN DEFINIEREN                      |
+| Anton Ochel       | Frontend, AUFAGBEN DEFINIEREN                      |
+| Tristan Emig      | Frontend, AUFAGBEN DEFINIEREN                      |
+| Tizian Groß       | Frontend, AUFAGBEN DEFINIEREN                      |
+| Benno Grimm       | Backend, Code, Datenbank Design, Dokumentation     |
+| Marcel Mertens    | Backend, Code, Infrastruktur, CI/CD, Dokumentation | 
 
 # Datenmodell
 ![ER-Diagramm](https://raw.githubusercontent.com/Stonks2Moon/Geschaeftskundenbroker/main/Documents/ER-Diagramm-Business-Broker.png)
