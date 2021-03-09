@@ -26,7 +26,7 @@ API Dokumentation: https://stonks.multiflexxx.de/api/docs/ | https://business.mo
 
 
 ## Interessante Links und Quellen
-<b>Algorithmisches Handeln:</b> Hello
+<b>Algorithmisches Handeln:</b>
 
 - https://de.wikipedia.org/wiki/Automatisierter_Handel
 - https://catanacapital.com/de/algorithmischer-handel-hochfrequenzhandel-automatisierter-boersenhandel/#beispiele-algorithmische-handelsstrategien
