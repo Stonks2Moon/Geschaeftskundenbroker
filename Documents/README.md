@@ -1,6 +1,7 @@
 ## Benutzte Technologien
 
 ### Backend: 
+- Swagger
 - REST
 - NestJs
 - MariaDB
