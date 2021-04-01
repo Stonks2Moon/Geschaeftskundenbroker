@@ -2,9 +2,9 @@
 
 ## Anforderungen
 ### Must haves
-- Tradingmöglichkeiten
+- Tradingmöglichkeiten (✔️)
   - Inklusive Quotes
-- Algorithmisches Handeln (✔️)
+- Algorithmisches Handeln ✔️
 - Rabatte der Börse an Liquiditätsspender weitergeben
 
 ### Nice to haves
