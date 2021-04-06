@@ -27,6 +27,9 @@ API Dokumentation: https://stonks.multiflexxx.de/api/docs/ | https://business.mo
 
 
 ## Interessante Links und Quellen
+<b>Liquiditätsspender & Quotes</b>
+- https://www.bankingclub.de/news/boerse-maerkte/von-beruf-liquiditaetsspender/
+
 <b>Algorithmisches Handeln:</b>
 
 - https://de.wikipedia.org/wiki/Automatisierter_Handel
