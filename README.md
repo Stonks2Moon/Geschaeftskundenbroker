@@ -6,7 +6,7 @@
   - Inklusive Quotes
 - Algorithmisches Handeln ✔️
 - Rabatte der Börse an Liquiditätsspender weitergeben
-- Unit tests (✔️)
+- Unit tests ✔️
 
 ### Nice to haves
 - Auswertungen + Statistiken für Kunden ✔️
