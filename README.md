@@ -2,8 +2,8 @@
 
 ## Anforderungen
 ### Must haves
-- Tradingmöglichkeiten (✔️)
-  - Inklusive Quotes
+- Tradingmöglichkeiten ✔️
+  - Inklusive Quotes ✔️
 - Algorithmisches Handeln ✔️
 - Rabatte der Börse an Liquiditätsspender weitergeben
 - Unit tests ✔️
